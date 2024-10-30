@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #5d1049;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #ff6f61;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #5d1049;
+}
+
+ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+
